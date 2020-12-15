@@ -1,5 +1,8 @@
 ### Hello world 👋
 
+![logo](/assets/logo_on-light_small.png)
+
+--------
 
 ![kristuff's github stats](https://github-readme-stats.vercel.app/api?username=kristuff&show_icons=true)
 
